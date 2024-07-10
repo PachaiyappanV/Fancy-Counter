@@ -2,9 +2,9 @@ import Card from "./Card";
 
 const App = () => {
   return (
-    <div>
+    <main>
       <Card />
-    </div>
+    </main>
   );
 };
 
